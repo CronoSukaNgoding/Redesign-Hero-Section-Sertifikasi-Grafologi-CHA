@@ -63,7 +63,7 @@ Tujuan utama dari redesign ini bukan sekadar menyalin desain referensi, tetapi m
 * **Framework:** [Next.js](https://nextjs.org/) (*App Router*)
 * **Bahasa:** [TypeScript](https://www.typescriptlang.org/) (*Strict Typing*)
 * **Styling:** [Tailwind CSS](https://tailwindcss.com/) (*Utility-first CSS Framework*)
-* **Theming:** `next-themes` (*Client-side dynamic theme switcher*)
+* **Theming:** Global CSS & CSS Variables
 * **Tipografi:** Google Fonts (`Plus Jakarta Sans`) melalui `next/font`
 * **Ikonografi:** Vektor SVG Kustom & Lucide Icons
 
