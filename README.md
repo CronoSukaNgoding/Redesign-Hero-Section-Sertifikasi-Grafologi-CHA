@@ -28,6 +28,20 @@ Tujuan utama dari redesign ini bukan sekadar menyalin desain referensi, tetapi m
 
 ---
 
+## 🖥️ Preview Hasil Redesign
+
+### ☀️ Light Mode
+
+<p align="center">
+  <img src="./public/images/preview-light.png" alt="Hero Section Light Mode" width="900">
+</p>
+
+### 🌙 Dark Mode
+
+<p align="center">
+  <img src="./public/images/preview-dark.png" alt="Hero Section Dark Mode" width="900">
+</p>
+
 ## ✨ Fitur & Keunggulan Desain
 
 * **🏗️ Split-Screen Executive Layout:** Mengubah tata letak vertikal konvensional menjadi struktur 2 kolom (*55:45 split-screen*). Kolom kiri digunakan untuk menyampaikan pesan utama dan informasi kursus, sedangkan kolom kanan memperkuat informasi tersebut melalui visual seperti representasi sertifikat CHA dan kartu fitur.
