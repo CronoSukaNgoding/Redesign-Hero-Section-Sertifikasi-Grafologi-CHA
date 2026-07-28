@@ -11,13 +11,14 @@
 
 ## 👤 Pengembang & Desainer
 
-| Informasi                 | Keterangan                                                                                             |
-| :------------------------ | :----------------------------------------------------------------------------------------------------- |
-| **Nama**                  | Syahiid Bani Putra                                                                                     |
-| **Peran**                 | UI/UX Designer & Web Developer                                                                         |
-| **Portofolio / LinkedIn** | [Portofolio](https://syahiid-bani-putra.vercel.app/)             | [LinkedIn](https://www.linkedin.com/in/syahiidbaniputra/)                                              |
-| **Website Referensi**     | [LKP Grafologi Indonesia - Comprehensive Course](https://grafologiindonesia.com/kursus/comprehensive/) |
-| **Website Hasil Re-Design**     | [LKP Grafologi Indonesia Re-Design - Comprehensive Course](https://redesign-hero-section-syahiid-bani-putra.vercel.app/) |
+| Informasi                     | Keterangan |
+| :---------------------------- | :---------- |
+| **Nama**                      | Syahiid Bani Putra |
+| **Peran**                     | UI/UX Designer & Web Developer |
+| **Portofolio**                | [syahiid-bani-putra.vercel.app](https://syahiid-bani-putra.vercel.app/) |
+| **LinkedIn**                  | [linkedin.com/in/syahiidbaniputra](https://www.linkedin.com/in/syahiidbaniputra/) |
+| **Website Referensi**         | [LKP Grafologi Indonesia - Comprehensive Course](https://grafologiindonesia.com/kursus/comprehensive/) |
+| **Website Hasil Redesign**    | [LKP Grafologi Indonesia - Redesign Hero Section](https://redesign-hero-section-syahiid-bani-putra.vercel.app/) |
 
 ---
 
