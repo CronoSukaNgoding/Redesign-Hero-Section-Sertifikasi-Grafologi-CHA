@@ -15,8 +15,9 @@
 | :------------------------ | :----------------------------------------------------------------------------------------------------- |
 | **Nama**                  | Syahiid Bani Putra                                                                                     |
 | **Peran**                 | UI/UX Designer & Web Developer                                                                         |
-| **Portofolio / LinkedIn** | [LinkedIn](https://www.linkedin.com/in/syahiidbaniputra/)                                              |
+| **Portofolio / LinkedIn** | [Portofolio](https://syahiid-bani-putra.vercel.app/)             | [LinkedIn](https://www.linkedin.com/in/syahiidbaniputra/)                                              |
 | **Website Referensi**     | [LKP Grafologi Indonesia - Comprehensive Course](https://grafologiindonesia.com/kursus/comprehensive/) |
+| **Website Hasil Re-Design**     | [LKP Grafologi Indonesia Re-Design - Comprehensive Course](https://redesign-hero-section-syahiid-bani-putra.vercel.app/) |
 
 ---
 
